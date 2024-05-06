@@ -4,7 +4,7 @@ import React from "react";
 const App = () => {
   return (
     <div className="App">
-      <a href="http://localhost:3000/lol" target="_blank" rel="noreferrer">
+      <a href="https://adorable-fenglisu-390180.netlify.app/lol" target="_blank" rel="noreferrer">
         to link
       </a>
       <p>
